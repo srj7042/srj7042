@@ -21,14 +21,14 @@
 const srj7042 = {
   title: "AI/ML Engineer & Backend Developer",
   stack: {
-    languages: ["Python", "Java", "C++", "C", "JavaScript", "SQL", "HTML5", "CSS3", "VHDL (basic)"],
+    languages: ["Python", "Java", "C++", "C", "SQL", "HTML5", "CSS3"],
     aiMl: ["YOLOv8", "FaceNet", "OpenCV", "DeepFace", "NumPy", "Pandas", "TensorFlow", "Keras", "Scikit-learn", "Matplotlib"],
     backend: ["Flask", "Node.js", "REST APIs"],
     frontend: ["React.js", "Vite", "Tailwind CSS", "Chart.js"],
     databases: ["SQLite", "MongoDB Atlas", "MySQL"],
     cloudDevOps: ["AWS (EC2)", "Microsoft Azure", "Terraform", "Docker", "Git", "GitHub", "Vercel", "Render"],
     toolsIDEs: ["VS Code", "PyCharm", "MySQL Workbench", "Homebrew", "pip", "npm", "pyenv"],
-    operatingSystems: ["macOS (Apple Silicon M1)", "Windows", "Linux (basic)"],
+    operatingSystems: ["macOS", "Windows"],
     aiTools: ["Cursor", "Claude", "Ollama", "Codex", "Antigravity"]
   },
   launchedProjects: ["YOLO-MP"],
@@ -73,7 +73,6 @@ AI-based attendance system using YOLOv8 for face detection and FaceNet for face 
 
 ![Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark)
 ![SQL](https://img.shields.io/badge/SQL-7dd3fc?style=for-the-badge&logo=postgresql&logoColor=000000)
-![VHDL](https://img.shields.io/badge/VHDL_(basic)-000000?style=for-the-badge&logoColor=7dd3fc)
 
 **AI / Machine Learning**
 
@@ -117,7 +116,7 @@ AI-based attendance system using YOLOv8 for face detection and FaceNet for face 
 
 **Operating Systems**
 
-![Skills](https://skillicons.dev/icons?i=windows,linux,apple&theme=dark)
+![Skills](https://skillicons.dev/icons?i=windows,apple&theme=dark)
 
 **AI Dev Tools**
 
