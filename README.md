@@ -1,181 +1,206 @@
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7dd3fc&height=220&section=header&text=srj7042&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Backend%20Developer&descAlignY=55&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:7dd3fc&height=220&section=header&text=srj7042&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%2FML%20%7C%20Backend%20Development&descAlignY=55&descSize=20"/>
 
 <a href="https://github.com/srj7042">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=AI%2FML+Engineer;Backend+Developer;Building+with+YOLOv8+%26+FaceNet;Exploring+Cursor+%7C+Claude+%7C+Ollama+%7C+Codex" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=650&lines=AI%2FML+%26+Computer+Vision;Backend+Development;Building+SmartAttend+%F0%9F%A4%96;Exploring+GenAI+%26+Cloud+Technologies" alt="Typing SVG"/>
 </a>
 
-<br/>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=srj7042&color=7dd3fc&style=flat-square)
-![Followers](https://img.shields.io/github/followers/srj7042?label=Followers&color=7dd3fc&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=srj7042&color=7dd3fc&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/srj7042?label=Followers&color=7dd3fc&style=flat-square" alt="GitHub Followers"/>
 
 </div>
 
 ---
 
-### 🧠 Who I Am
+## 🧠 About Me
 
 ```typescript
-const srj7042 = {
-  title: "AI/ML Engineer & Backend Developer",
-  stack: {
-    languages: ["Python", "Java", "C++", "C", "SQL", "HTML5", "CSS3"],
-    aiMl: ["YOLOv8", "FaceNet", "OpenCV", "DeepFace", "NumPy", "Pandas", "TensorFlow", "Keras", "Scikit-learn", "Matplotlib"],
+const suraj = {
+  username: "srj7042",
+  focus: ["AI/ML", "Computer Vision", "Backend Development"],
+  languages: ["Python", "Java", "C++", "C", "SQL"],
+  technologies: {
+    aiMl: ["YOLOv8", "OpenCV", "FaceNet", "DeepFace"],
     backend: ["Flask", "Node.js", "REST APIs"],
-    frontend: ["React.js", "Vite", "Tailwind CSS", "Chart.js"],
-    databases: ["SQLite", "MongoDB Atlas", "MySQL"],
-    cloudDevOps: ["AWS (EC2)", "Microsoft Azure", "Terraform", "Docker", "Git", "GitHub", "Vercel", "Render"],
-    toolsIDEs: ["VS Code", "PyCharm", "MySQL Workbench", "Homebrew", "pip", "npm", "pyenv"],
-    operatingSystems: ["macOS", "Windows"],
-    aiTools: ["Cursor", "Claude", "Ollama", "Codex", "Antigravity"]
+    frontend: ["React", "Vite", "Tailwind CSS"],
+    databases: ["SQLite", "MySQL", "MongoDB"],
+    cloudDevOps: ["Docker", "AWS", "Azure", "Terraform"]
   },
-  launchedProjects: ["YOLO-MP"],
-  openTo: "Connecting via LinkedIn"
+  tools: ["Git", "GitHub", "VS Code", "Cursor", "Ollama", "Codex"],
+  currentlyBuilding: "SmartAttend",
+  goal: "Build useful, scalable software"
 };
 ```
 
+- 🎓 B.Tech CSE (AI & ML)
+- 🤖 Interested in AI, computer vision, and practical ML applications
+- ⚙️ Exploring backend systems, cloud infrastructure, and DevOps
+- 🧪 Building projects that combine AI with real-world software
+- 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/suraj-jaiswal-58892632a/)
+
 ---
 
-### 🚀 Featured Projects
-
-#### 📌 [YOLO-MP](https://github.com/srj7042/YOLO-MP)
-
-AI-based attendance system using YOLOv8 for face detection and FaceNet for face recognition, with a Flask web app for real-time attendance tracking and analytics.
+## 🚀 Featured Project
 
 <div align="center">
 
-[![YOLO-MP](https://github-readme-stats.vercel.app/api/pin/?username=srj7042&repo=YOLO-MP&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc)](https://github.com/srj7042/YOLO-MP)
+### 🎓 SmartAttend
+
+**AI-Powered Facial Recognition Attendance System**
+
+[![Repository](https://img.shields.io/badge/GitHub-SmartAttend-181717?style=for-the-badge&logo=github)](https://github.com/srj7042/YOLO_Attend)
 
 </div>
 
-| Layer | Technology |
+SmartAttend is a classroom attendance and student biometric-training application that processes classroom group photos to detect and recognize enrolled students.
+
+### ✨ Key Features
+
+| Feature | Description |
 |---|---|
-| Detection | YOLOv8 |
-| Recognition | FaceNet |
-| Computer Vision | OpenCV |
-| Backend | Flask |
-| Database | SQLite |
-| Analytics | Chart.js |
+| 🤖 AI Attendance | Face detection and recognition from classroom photos |
+| 📸 Biometric Training | Student photo management and embedding generation |
+| 👥 Role-Based Access | Admin, Director/Dean, HOD, Teacher, and Student portals |
+| 📊 Analytics | Attendance reports, trends, and data exports |
+| 🗓️ Faculty Timetable | Weekly schedules and today's classes |
+| 🏢 Department Management | Student grouping and class allocation |
+
+### 🛠️ Technology Stack
+
+| Layer | Technologies |
+|---|---|
+| Detection | YOLOv8, OpenCV |
+| Recognition | DeepFace / FaceNet |
+| Image Processing | CLAHE, Unsharp Masking, Bicubic Upscaling |
+| Backend | Flask, Flask-Login, Flask-WTF |
+| Database | SQLite; PostgreSQL/MySQL integration plans |
+| Background Jobs | ThreadPoolExecutor |
+| Frontend | Jinja2, Chart.js, Font Awesome |
+| Data Export | Pandas, OpenPyXL |
+| Deployment | Docker, Render |
+
+> **Note:** The technologies and database options above describe the project stack and planned integrations; not every listed integration necessarily represents a production deployment.
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-[![Code](https://img.shields.io/badge/Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srj7042/YOLO-MP)
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,sql&theme=dark" alt="Programming Languages"/>
+
+### 🤖 AI / Machine Learning
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch,tensorflow&theme=dark" alt="AI and Machine Learning"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/FaceNet-Face%20Embeddings-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/DeepFace-Facial%20Recognition-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Scikit--learn-Machine%20Learning-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/NumPy-Scientific%20Computing-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Pandas-Data%20Analysis-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Keras-Deep%20Learning-7DD3FC?style=flat-square"/>
+
+### ⚙️ Backend & Frontend
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,react,vite,tailwind&theme=dark" alt="Backend and Frontend Technologies"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST%20APIs-Backend-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Chart.js-Visualization-7DD3FC?style=flat-square"/>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres&theme=dark" alt="Databases"/>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,git,github,vercel&theme=dark" alt="Cloud and DevOps"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Render-Deployment-7DD3FC?style=flat-square"/>
+
+### 🧰 Tools & AI Development
+
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,bash,git&theme=dark" alt="Development Tools"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Cursor-AI%20IDE-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Claude-AI%20Assistant-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Codex-AI%20Coding-7DD3FC?style=flat-square"/>
+<img src="https://img.shields.io/badge/Antigravity-AI%20Development-7DD3FC?style=flat-square"/>
+
+### 🖥️ Operating Systems
+
+<img src="https://skillicons.dev/icons?i=apple,windows,linux&theme=dark" alt="Operating Systems"/>
 
 </div>
 
 ---
 
-### 🛠️ Tech Stack
-
-**Programming Languages**
-
-![Skills](https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css&theme=dark)
-![SQL](https://img.shields.io/badge/SQL-7dd3fc?style=for-the-badge&logo=postgresql&logoColor=000000)
-
-**AI / Machine Learning**
-
-![Skills](https://skillicons.dev/icons?i=opencv,tensorflow,pytorch&theme=dark)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-7dd3fc?style=for-the-badge&logoColor=000000)
-![FaceNet](https://img.shields.io/badge/FaceNet-000000?style=for-the-badge&logoColor=7dd3fc)
-![DeepFace](https://img.shields.io/badge/DeepFace-7dd3fc?style=for-the-badge&logoColor=000000)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=7dd3fc)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=7dd3fc)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logoColor=7dd3fc)
-
-**Backend Development**
-
-![Skills](https://skillicons.dev/icons?i=flask,nodejs&theme=dark)
-![REST APIs](https://img.shields.io/badge/REST_APIs-000000?style=for-the-badge&logoColor=7dd3fc)
-
-**Frontend Development**
-
-![Skills](https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark)
-![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)
-
-**Databases**
-
-![Skills](https://skillicons.dev/icons?i=sqlite,mongodb,mysql&theme=dark)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Cloud & DevOps**
-
-![Skills](https://skillicons.dev/icons?i=aws,azure,terraform,docker,git,github,vercel&theme=dark)
-![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=7dd3fc)
-
-**Tools & IDEs**
-
-![Skills](https://skillicons.dev/icons?i=vscode,pycharm,npm&theme=dark)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Homebrew](https://img.shields.io/badge/Homebrew-FBB040?style=for-the-badge&logo=homebrew&logoColor=black)
-![pip](https://img.shields.io/badge/pip-7dd3fc?style=for-the-badge&logo=pypi&logoColor=000000)
-![pyenv](https://img.shields.io/badge/pyenv-000000?style=for-the-badge&logoColor=7dd3fc)
-
-**Operating Systems**
-
-![Skills](https://skillicons.dev/icons?i=windows,apple&theme=dark)
-
-**AI Dev Tools**
-
-![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=7dd3fc)
-![Claude](https://img.shields.io/badge/Claude-7dd3fc?style=for-the-badge&logo=anthropic&logoColor=000000)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=7dd3fc)
-![Codex](https://img.shields.io/badge/Codex-7dd3fc?style=for-the-badge&logo=openai&logoColor=000000)
-![Antigravity](https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logoColor=7dd3fc)
-
-**Areas of Knowledge**
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-7dd3fc?style=for-the-badge&logoColor=000000)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logoColor=7dd3fc)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-7dd3fc?style=for-the-badge&logoColor=000000)
-![Deep Learning](https://img.shields.io/badge/Deep_Learning-000000?style=for-the-badge&logoColor=7dd3fc)
-![Facial Recognition](https://img.shields.io/badge/Facial_Recognition-7dd3fc?style=for-the-badge&logoColor=000000)
-![Backend Development](https://img.shields.io/badge/Backend_Development-000000?style=for-the-badge&logoColor=7dd3fc)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-7dd3fc?style=for-the-badge&logoColor=000000)
-![Database Management](https://img.shields.io/badge/Database_Management-000000?style=for-the-badge&logoColor=7dd3fc)
-![Data Structures & Algorithms](https://img.shields.io/badge/Data_Structures_%26_Algorithms-7dd3fc?style=for-the-badge&logoColor=000000)
-![OOP](https://img.shields.io/badge/Object--Oriented_Programming-000000?style=for-the-badge&logoColor=7dd3fc)
-
----
-
-### 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=srj7042&show_icons=true&theme=nord&border_color=7dd3fc&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srj7042&layout=compact&theme=nord&border_color=7dd3fc&title_color=7dd3fc&text_color=c9d1d9"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=srj7042&show_icons=true&theme=transparent&hide_border=true&title_color=7dd3fc&icon_color=7dd3fc&text_color=c9d1d9&rank_icon=github" alt="GitHub Statistics"/>
 
-<img src="https://streak-stats.demolab.com?user=srj7042&theme=nord&border=7dd3fc&fire=7dd3fc&ring=7dd3fc&currStreakLabel=7dd3fc"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srj7042&layout=compact&theme=transparent&hide_border=true&title_color=7dd3fc&text_color=c9d1d9" alt="Most Used Languages"/>
 
-</div>
+<br/>
 
-### 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=srj7042&theme=nord&no-frame=true&no-bg=true&border_radius=10"/>
-
-</div>
-
-### 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=srj7042&theme=nord&hide_border=true&color=7dd3fc&line=7dd3fc&point=7dd3fc&bg_color=00000000"/>
+<img src="https://streak-stats.demolab.com?user=srj7042&theme=transparent&hide_border=true&ring=7dd3fc&fire=7dd3fc&currStreakLabel=7dd3fc&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Contribution Streak"/>
 
 </div>
 
 ---
 
-### 🔗 Connect
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suraj-jaiswal-58892632a/)
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=srj7042&theme=algolia&no-frame=true&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=7dd3fc&height=150&section=footer"/>
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=srj7042&bg_color=0d1117&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&hide_border=true" alt="Contribution Activity Graph"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/suraj-jaiswal-58892632a/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/srj7042">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<br/><br/>
+
+**Building. Learning. Improving. 🚀**
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7dd3fc,100:0f172a&height=120&section=footer"/>
