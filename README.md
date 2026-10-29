@@ -93,7 +93,7 @@ SmartAttend is a classroom attendance and student biometric-training application
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,html,css,js,sql&theme=dark" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,sql&theme=dark" alt="Programming Languages"/>
 
 ### 🤖 AI / Machine Learning
 
@@ -120,11 +120,11 @@ SmartAttend is a classroom attendance and student biometric-training application
 
 ### 🗄️ Databases
 
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,postgres&theme=dark" alt="Databases"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark" alt="Databases"/>
 
 ### ☁️ Cloud & DevOps
 
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,terraform,git,github,vercel&theme=dark" alt="Cloud and DevOps"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,terraform,git,github,vercel&theme=dark" alt="Cloud and DevOps"/>
 
 <br/>
 
@@ -132,19 +132,17 @@ SmartAttend is a classroom attendance and student biometric-training application
 
 ### 🧰 Tools & AI Development
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,bash,git&theme=dark" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=vscode,bash,git&theme=dark" alt="Development Tools"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Cursor-AI%20IDE-7DD3FC?style=flat-square"/>
 <img src="https://img.shields.io/badge/Claude-AI%20Assistant-7DD3FC?style=flat-square"/>
-<img src="https://img.shields.io/badge/Ollama-Local%20LLMs-7DD3FC?style=flat-square"/>
 <img src="https://img.shields.io/badge/Codex-AI%20Coding-7DD3FC?style=flat-square"/>
 <img src="https://img.shields.io/badge/Antigravity-AI%20Development-7DD3FC?style=flat-square"/>
 
 ### 🖥️ Operating Systems
 
-<img src="https://skillicons.dev/icons?i=apple,windows,linux&theme=dark" alt="Operating Systems"/>
+<img src="https://skillicons.dev/icons?i=apple,windows&theme=dark" alt="Operating Systems"/>
 
 </div>
 
