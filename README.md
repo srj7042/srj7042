@@ -30,7 +30,7 @@ const suraj = {
     databases: ["SQLite", "MySQL", "MongoDB"],
     cloudDevOps: ["Docker", "AWS", "Azure", "Terraform"]
   },
-  tools: ["Git", "GitHub", "VS Code", "Cursor", "Ollama", "Codex"],
+  tools: ["Git", "GitHub", "VS Code"],
   currentlyBuilding: "SmartAttend",
   goal: "Build useful, scalable software"
 };
